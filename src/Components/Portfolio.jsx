@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Alumni Information System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "a robust alumni information system, leveraging SQL databases to efficiently manage and access alumni data for enhanced networking and outreach",
+    url: "https://github.com/Sanober494/Alumni-Information-System",
   },
   {
-    title: "Web Development for Beginners",
+    title: "MedCheck- Diabetes Predictor",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An AI-powered algorithm empowering Diabetes prediction through analysis of individual characteristics, fostering proactive healthcare solution.",
+    url: "https://github.com/Sanober494/MedCheck",
   },
   {
-    title: "My Resume Site",
+    title: "Survey Form",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An interactive and visually engaging web-based survey, utilizing web development skills, to collect and analyze valuable insights for informed decision-making",
+    url: "https://github.com/Sanober494/Survey_Form",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Object Oriented Programming Codes",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Repository showcasing well-documented and organized object-oriented programming (OOP) code in JAVA, demonstrating proficiency in OOP concepts and best practices.",
+    url: "https://github.com/Sanober494/OOPs_Codes",
   },
 ];
 
